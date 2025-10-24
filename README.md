@@ -14,6 +14,8 @@ sound{
 Once this is done, save file, go to game files -> "sound" folder -> Create a "mod" folder in it then put downloaded banks files into it.
 Open your game and here we go!
 
+mod link: https://live.warthunder.com/post/1154489/en/
+
 [FR]
 Ceci est un mod pour War Thunder qui change quelques sons des canons sur les véhicules terrestres. Des cannons de 85 mm aux 203mm depuis l'intérieur, l'extérieur et de la perspective à distance pour l'instant. Amusez-vous!
 
@@ -28,3 +30,5 @@ sound{
 
 Après cela, enregistrez le fichier, allez sur les fichiers de jeu -> Dossier "sound" -> Créez un dossier "mod" à l'intérieur de celui-ci puis mettez les fichiers .bank dans ce dossier.
 Ouvrez le jeu et c'est fait!
+
+lien du mod: https://live.warthunder.com/post/1154489/en/
